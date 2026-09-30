@@ -2,6 +2,12 @@
 
 A responsive personal portfolio built with React, TypeScript, Vite, and Three.js. Includes a handcrafted voxel island, day/night lighting, island rotation, project filters, accessible project dialogs, and an email contact panel.
 
+## Live site
+
+[gpt-6-1-sol-test.vercel.app](https://gpt-6-1-sol-test.vercel.app)
+
+The GitHub repository is connected to Vercel. Pushes to `main` deploy to production automatically.
+
 ## Run locally
 
 ```sh
